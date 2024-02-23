@@ -1,0 +1,13 @@
+
+h1,h2,h3,h4,h5,h6{
+    color:pink;
+    font-size: 60px;
+    text-align: center;
+}
+#parrafo1{
+    color:rgb(12, 85, 61);
+    text-align: center;
+    }
+body{
+    background-color:bisque;
+}
